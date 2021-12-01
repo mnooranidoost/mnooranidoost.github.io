@@ -1,9 +1,12 @@
-
 ---
 layout: page
-title: Microencapsulation of cells in flow-focusing microchannels
+title: Deposition of cell-loaded droplets in droplet-based bio-printing systems
 permalink: /miscellany/item-3/
 ---
+
+<!-- MathJax -->
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
 I modeled encapsulation of cells in a flow-focusing microchannel to investigate the effects of various fluid and flow properties on droplet size, frequency 
 of droplet generation, and cell population per droplet \cite{nooranidoost2019cell}. Four different modes were identified based on cell population per droplet:
