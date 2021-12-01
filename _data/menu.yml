@@ -4,12 +4,16 @@
 - title: "Research"
   href: "/miscellany/"
   subcategories:
+    - subtitle: "Item 0"
+      subhref: "/miscellany/item-0/"
     - subtitle: "Item 1"
       subhref: "/miscellany/item-1/"
     - subtitle: "Item 2"
       subhref: "/miscellany/item-2/"
     - subtitle: "Item 3"
       subhref: "/miscellany/item-3/"
+    - subtitle: "Item 4"
+      subhref: "/miscellany/item-4/"
 
 - title: "Teaching"
   href: "/teaching/"
