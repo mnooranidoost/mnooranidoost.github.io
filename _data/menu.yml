@@ -1,8 +1,6 @@
 - title: "CV"
   href: "/cv/"
   
-
-  
 - title: "Research"
   href: "/miscellany/"
   subcategories:
@@ -18,7 +16,7 @@
       subhref: "/miscellany/item-4/"
 
  - title: "Teaching"
-  href: "/teaching/"
+      href: "/teaching/"
 
 
 
