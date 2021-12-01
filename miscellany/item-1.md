@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Item 1
+title: Generation of droplets in flow focusing microchannels with viscoelastic fluids
 permalink: /miscellany/item-1/
 ---
 
