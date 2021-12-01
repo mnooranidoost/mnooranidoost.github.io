@@ -17,7 +17,7 @@ During my postdoctoral career at the Florida State University, I had the opportu
 During my master’s study at the Koc University and Ph.D. at the University of Central Florida, I had the opportunity to work on various projects and collaborated with amazing research teams. My work was focused specifically on numerical simulations of complex rheological and biological flows in droplet based microfluidic systems. For these projects, I modeled the governing fluid flow equations by an incompressible Navier-Stokes equations which were solved in the framework of a one-field formulation on an Eulerian grid for all fluids. These continuity and momentum equations can be expressed as:
 
 <p><span class="math display">\[\begin{aligned}
-\nabla\cdot \textbf{u} &amp;=&amp; 0, \label{continuity_eq} \label{NS_cont} \\
+\nabla\cdot \textbf{u} &amp;=&amp; 0, \label{continuity_eq} \\
 \frac{\partial \rho \textbf{u}}{\partial t} + \nabla\cdot(\rho \textbf{uu}) &amp;=&amp;-\nabla p + \nabla\cdot\mu_{s}(\nabla\textbf{u}+\nabla\textbf{u}^T) + \nabla\cdot \pmb{\tau}  + \int_A \sigma \kappa{\bf n}\delta({\bf x} - {\bf x_f})dA,
 \label{NS_eq}\end{aligned}\]</span></p>
 
