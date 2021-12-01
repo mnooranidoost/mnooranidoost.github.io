@@ -17,6 +17,9 @@ permalink: /publication/
   
 <li><b>Mohammad Nooranidoost</b>, Daulet Izbassarov, and Metin Muradoglu. "Droplet formation in a flow focusing configuration: Effects of viscoelasticity." Physics of Fluids 28.12 (2016): 123102.</li>  
   
+<li><b>Mohammad Nooranidoost</b>, Nick Cogan, and M. Yousuff. Hussaini. "Bayesian estimation of Pseudomonas aeruginosa viscoelastic properties." Physical Review E <i>(in preparation) <\i>  
+  
+  
 </ol>
 
 
