@@ -1,6 +1,5 @@
 - title: "CV"
   href: "/cv/"
-
 - title: "Research"
   href: "/miscellany/"
   subcategories:
@@ -14,9 +13,9 @@
       subhref: "/miscellany/item-3/"
     - subtitle: "Migration of encapsulated leukemia cells in constricted microcapillary"
       subhref: "/miscellany/item-4/"
-      
-  - title: "Teaching"
-     href: "/teaching/"
+ - title: "Teaching"
+   href: "/teaching/"      
+ 
 
 
 
