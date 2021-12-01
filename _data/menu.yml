@@ -8,6 +8,8 @@
       subhref: "/miscellany/item-1/"
     - subtitle: "Item 2"
       subhref: "/miscellany/item-2/"
+          - subtitle: "Item 2"
+      subhref: "/miscellany/item-3/"
 
 - title: "Teaching"
   href: "/teaching/"
