@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deposition of cell-loaded droplets in droplet-based bio-printing systems
+title: Microencapsulation of cells in flow-focusing microchannels
 permalink: /miscellany/item-3/
 ---
 
