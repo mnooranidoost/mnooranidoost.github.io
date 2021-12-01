@@ -12,6 +12,8 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+<a href="https://scholar.google.com/citations?userid=UcT4CXoAAAAJ&user=UcT4CXoAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar-square gs-icon"></i></a>
+
 # Build settings
 markdown: kramdown
 
