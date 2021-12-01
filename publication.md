@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-<ul>
+<ol>
 <li>Mohammad Nooranidoost and Ranganathan Kumar. "Deformation of an Encapsulated Leukemia HL60 Cell through Sudden Contractions of a Microfluidic Channel." Micromachines 12.4 (2021): 355.</li>
 
 <li>Mohammad Nooranidoost and Ranganathan Kumar. "Improving viability of leukemia cells by tailoring shell fluid rheology in constricted microcapillary." Scientific Reports 10.1 (2020): 1-11.</li>
@@ -17,7 +17,7 @@ permalink: /publication/
   
 <li>Mohammad Nooranidoost, Daulet Izbassarov, and Metin Muradoglu. "Droplet formation in a flow focusing configuration: Effects of viscoelasticity." Physics of Fluids 28.12 (2016): 123102.</li>  
   
-</ul>
+</ol>
 
 
 
