@@ -5,9 +5,9 @@
   href: "/research/"
   subcategories:
     - subtitle: "Item 1"
-      subhref: "/research/item-1/"
+      subhref: "/miscellany/item-1/"
     - subtitle: "Item 2"
-      subhref: "/research/item-2/"
+      subhref: "/miscellany/item-2/"
 
 - title: "Teaching"
   href: "/teaching/"
