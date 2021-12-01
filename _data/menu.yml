@@ -1,8 +1,7 @@
 - title: "CV"
   href: "/cv/"
   
-- title: "Teaching"
-  href: "/teaching/"
+
   
 - title: "Research"
   href: "/miscellany/"
@@ -18,7 +17,8 @@
     - subtitle: "Migration of encapsulated leukemia cells in constricted microcapillary"
       subhref: "/miscellany/item-4/"
 
- 
+ - title: "Teaching"
+  href: "/teaching/"
 
 
 
