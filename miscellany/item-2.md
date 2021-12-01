@@ -3,6 +3,9 @@ layout: page
 title: Deposition of cell-loaded droplets in droplet-based bio-printing systems
 permalink: /miscellany/item-2/
 ---
+<!-- MathJax -->
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
 Using a front-tracking method to solve multi-phase flow equations and a FENE-CR model to model polymers inside the bio-ink solution and the cell, I studied deposition of cell-loaded droplets on a flat surface during a bio-printing process \cite{nooranidoost2020improving}. A slip-contact line model was used to treat the dynamic contact line between the droplet interface and the flat surface. The Kistler's correlation~\cite{kistler1993hydrodynamics} was used to relate the dynamic contact angle to the static contact angle ($\theta_e$) and the capillary number $Ca_{cl} = \mu_d |V_{cl}|/\sigma_{o}$, where $\mu_{d}$, $V_{cl}$ and $\sigma_{o}$ are viscosity of the cell-laden droplet, velocity of the contact line and interfacial tension of the outer interface, respectively. First, the apparent dynamic contact angle was calculated as:
 
