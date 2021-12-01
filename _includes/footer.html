@@ -8,8 +8,9 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li><strong>{{ site.title }}</strong></li>
-
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>+1 (321) 315 - 4232 </li>
+
         </ul>
       </div>
 
@@ -36,15 +37,7 @@
 {% if site.dblp_url %}<a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>{% endif %}
 {% if site.stackoverflow_id %}<a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>{% endif %}
 
-{% if site.rss_icon %}<a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>{% endif %}
-          
-          
-          
-          
-          
-          
-
-          
+{% if site.rss_icon %}<a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>{% endif %}                
           
           
           
