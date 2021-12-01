@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generation of droplets in flow focusing microchannels with viscoelastic fluids
+title: Bayesian Estimation of Biofilm Mechanics
 permalink: /miscellany/item-0/
 ---
 
