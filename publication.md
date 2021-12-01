@@ -4,18 +4,4 @@ title: Publication
 permalink: /publication/
 ---
 
-Tell us about your blog. Hopefully it's cool.
-
-<ul class="listing">
-{% for post in site.posts %}
-  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+<p><span class="citation" data-cites="article">@article</span>{nooranidoost2016droplet, title={Droplet formation in a flow focusing configuration: Effects of viscoelasticity}, author={Nooranidoost, M. and Izbassarov, D. and Muradoglu, M.}, journal={Physics of Fluids}, volume={28}, number={12}, pages={123102}, year={2016}, howpublished = {https://doi.org/10.1063/1.4971841}, publisher={AIP Publishing LLC} }</p>
